@@ -90,19 +90,15 @@
   "portfolio": {
     "projects": [
       {
-        "title": "App UI KIT Component",
         "image": "work1.png"
       },
       {
-        "title": "Mobile App",
         "image": "work2.jpeg"
       },
       {
-        "title": "Calendar Design",
         "image": "work3.png"
       },
       {
-        "title": "MEVN stack project for HR",
         "image": "work4.png"
       }
     ]
