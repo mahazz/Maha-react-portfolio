@@ -13,7 +13,9 @@ const Contact = ({ data }) => {
 
   const handleClick = (e) => {
     e.preventDefault();
-    window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+    window.open(
+      `mailto:mahmalzahrany@gmail.com?subject=${subject}&body=${name} email: ${email}: ${message}`
+    );
   };
 
   return (
@@ -102,7 +104,7 @@ const Contact = ({ data }) => {
             </fieldset>
           </form>
 
-          <div id="message-warning"> Error boy</div>
+          <div id="message-warning"> Error</div>
           <div id="message-success">
             <i className="fa fa-check"></i>Your message was sent, thank you!
             <br />
