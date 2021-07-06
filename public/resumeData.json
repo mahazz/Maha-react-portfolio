@@ -66,11 +66,11 @@
       },
       {
         "name": "Docker",
-        "level": "80%"
+        "level": "50%"
       },
       {
         "name": "NGINX",
-        "level": "75%"
+        "level": "20%"
       },
       {
         "name": "SSL / Let’s Encrypt",
