@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Developed by Maha 2020</li>
+              <li>&copy; Developed by Maha 2021</li>
             </ul>
           </div>
           <div id="go-top">

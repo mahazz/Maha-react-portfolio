@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Maha Alzahrani",
-    "description": "Full Stack Developer and UX/UI designer ",
+    "description": "Front-End Developer and UX/UI Designer ",
     "image": "Maha_dev.png",
-    "bio": "My name is Maha, I'm a Full Stack Developer. Currently I'm working as freelancer",
+    "bio": "My name is Maha Alzahrani, I'm a front-end developer and UX/UI designer with three years of experience. I’ve experience with responsive and adaptive design.",
     "email": "mahmalzahrany@gmail.com",
     "address": {
       "city": "Riyadh"
@@ -13,13 +13,8 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://linkedin.com/in/maha-alzahrani-2018a7146",
+        "url": "https://www.linkedin.com/in/maha-alzahrani-2018a7146",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/mahazz",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -34,9 +29,9 @@
     ],
     "work": [
       {
-        "company": "Takamol Holding Company",
-        "title": "Product Development",
-        "years": "Aug 2018 - Present",
+        "company": "Takamol company",
+        "title": "Software Engineer ",
+        "years": "Aug 2020 - Present",
         "description": ""
       }
     ],
@@ -58,7 +53,11 @@
         "level": "100%"
       },
       {
-        "name": "HTML5",
+        "name": "Balsamiq",
+        "level": "70%"
+      },
+      {
+        "name": "HTML/HTML5",
         "level": "100%"
       },
       {
@@ -78,12 +77,8 @@
         "level": "70%"
       },
       {
-        "name": "Ruby on Rails",
-        "level": "30%"
-      },
-      {
         "name": "Node.js",
-        "level": "50%"
+        "level": "20%"
       }
     ]
   },
@@ -100,6 +95,21 @@
       },
       {
         "image": "work4.png"
+      },
+      {
+        "image": "work5.png"
+      },
+      {
+        "image": "work6.png"
+      },
+      {
+        "image": "work7.png"
+      },
+      {
+        "image": "work8.png"
+      },
+      {
+        "image": "work9.png"
       }
     ]
   }
