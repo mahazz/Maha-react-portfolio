@@ -32,12 +32,12 @@ body {
 
 header {
   position: relative;
-  height: 980px !important;
+  /* height: 980px !important; */
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/banner.png) no-repeat top center;
+  background: #161415 url(../images/banner.png) no-repeat center center;
   background-size: cover !important;
-  -webkit-background-size: cover !important;
+  /* -webkit-background-size: cover !important; */
   text-align: center;
   overflow: hidden;
 }
@@ -111,13 +111,12 @@ header .scrolldown a {
   bottom: 30px;
   left: 50%;
   margin-left: -29px;
-  color: #fff;
+  color: #ff6bb3;
   display: block;
   height: 42px;
   width: 42px;
   font-size: 42px;
   line-height: 42px;
-  color: #fff;
   border-radius: 100%;
 
   -webkit-transition: all 0.3s ease-in-out;
@@ -126,7 +125,7 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #ff6bb3;
+  color: #c7518a;
 }
 
 /* primary navigation
