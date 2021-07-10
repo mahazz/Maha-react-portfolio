@@ -85,31 +85,44 @@
   "portfolio": {
     "projects": [
       {
-        "image": "work1.png"
+        "title": "Calendar UI design",
+        "image": "1.jpg",
+        "url": "https://codepen.io/mahamz/pen/LYZqPEN"
       },
       {
-        "image": "work2.jpeg"
+        "title": "Credit Card Checkout",
+        "image": "2.jpg",
+        "url": "https://www.behance.net/gallery/121848749/Credit-Card-Checkout"
       },
       {
-        "image": "work3.png"
+        "title": "Cover Landing Page UI design",
+        "image": "3.jpg",
+        "url": "https://www.behance.net/gallery/121543699/Cover-Landing-Page"
       },
       {
-        "image": "work4.png"
+        "title": "Toggle - Front-end by using vuejs",
+        "image": "4.jpg",
+        "url": "https://codepen.io/mahamz/pen/YzWBzyv"
       },
       {
-        "image": "work5.png"
+        "title": "Animated navigation toggle - Front-end by using vuejs",
+        "image": "5.jpg",
+        "url": "https://codepen.io/mahamz/pen/wvWNyVN"
       },
       {
-        "image": "work6.png"
+        "title": "Restaurant menu app - Front-end by using vuejs",
+        "image": "6.jpg",
+        "url": "https://restaurant-menuapp.netlify.app/"
       },
       {
-        "image": "work7.png"
+        "title": "Sign up  UI design",
+        "image": "7.jpg",
+        "url": "https://www.behance.net/gallery/116053005/Sign-up-design"
       },
       {
-        "image": "work8.png"
-      },
-      {
-        "image": "work9.png"
+        "title": "Mobile UI KIT",
+        "image": "9.jpg",
+        "url": "https://www.behance.net/gallery/109831967/Mobile-UI-KIT"
       }
     ]
   }
